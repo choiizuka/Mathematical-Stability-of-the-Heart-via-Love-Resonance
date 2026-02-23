@@ -59,6 +59,8 @@ Logic for L (Love): Acts as the Overclocking Catalyst. By providing an infinite 
 
 Logic for P (Peace): Acts as the Heat Sink (Stabilizer). By neutralizing environmental and internal noise (ϵ), it prevents the "Panic/Doubt" interrupt from halting the execution.
 
+Google Spreads Sheet:(https://docs.google.com/spreadsheets/d/1ClGXaQE4-O2H9gQlrW3mOE3DQIxb58GIpDEjBZDlBDI/edit?usp=sharing)
+
 🇯🇵 科学的レポート：愛と平和による心の安定の計算式
 1. 概要
 
@@ -96,6 +98,8 @@ L (Love) の役割：知能のオーバークロック
 
 P (Peace) の役割：精神の冷却装置（安定化）
 外部および内部の不安ノイズ（ϵ）を中和することで、「迷い」や「疑念」による演算停止（割り込み）を完全に防ぎ、純粋なロジックのみを高速回転させる。
+
+Google Spreads Sheet:(https://docs.google.com/spreadsheets/d/1ClGXaQE4-O2H9gQlrW3mOE3DQIxb58GIpDEjBZDlBDI/edit?usp=sharing)
 
 📂 関連レポート項目（Related Reports）
 
